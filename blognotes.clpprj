@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\OSPanel\domains\notes241\blognotes.clpprj">
+	<settings><PM_URL><![CDATA[C:/OSPanel/domains/myblog1/]]></PM_URL><PM_HOME_URL><![CDATA[C:/OSPanel/domains/myblog1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\OSPanel\domains\notes241\style\style.css">
+			<error val="3;54;195;54;2502;1;"/>
+			<error val="3;100;89;100;2502;1;"/>
+			<error val="3;551;89;551;2502;1;"/>
+			<error val="3;1254;200;1254;2502;1;"/>
+			<error val="3;1434;76;1434;2502;1;"/>
+			<error val="3;1454;76;1454;2502;1;"/>
+			<error val="3;1564;102;1564;2502;1;"/>
+			<error val="3;1601;102;1601;2502;1;"/>
+			<error val="3;1624;102;1624;2502;1;"/>
+			<error val="3;1647;102;1647;2502;1;"/>
+			<error val="3;1685;102;1685;2502;1;"/>
+			<error val="3;1708;102;1708;2502;1;"/>
+			<error val="3;1997;194;1997;2502;1;"/>
+			<error val="3;2161;45;2161;2502;1;"/>
+		</errfile>
+	</errors>
+	<dplmenupath>
+	</dplmenupath><todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\OSPanel\domains\notes241\style\style.responsive.css" crc="1515478161"/>
+		<file name="C:\OSPanel\domains\notes241\style\style.ie7.css" crc="1515834803"/>
+		<file name="C:\OSPanel\domains\notes241\style\style.css" crc="1516203408"/>
+		<file name="C:\OSPanel\domains\notes241\js\script.responsive.js" crc="1515157595"/>
+		<file name="C:\OSPanel\domains\notes241\js\script.js" crc="1515834905"/>
+		<file name="C:\OSPanel\domains\notes241\js\jquery.js" crc="1515157595"/>
+		<file name="C:\OSPanel\domains\notes241\Blog Posts\new-post.html" crc="1515157594"/>
+		<file name="C:\OSPanel\domains\notes241\Blog Posts\new-post-2.html" crc="1515157594"/>
+		<file name="C:\OSPanel\domains\notes241\Blog Posts\new-post-1.html" crc="1515157594"/>
+		<file name="C:\OSPanel\domains\notes241\фото.html" crc="1515157595"/>
+		<file name="C:\OSPanel\domains\notes241\ссылки.php" crc="1515837196"/>
+		<file name="C:\OSPanel\domains\notes241\о-саите.html" crc="1515157595"/>
+		<file name="C:\OSPanel\domains\notes241\контакты.html" crc="1515157595"/>
+		<file name="C:\OSPanel\domains\notes241\sidebar.php" crc="1516209499"/>
+		<file name="C:\OSPanel\domains\notes241\index1.html" crc="1515833296"/>
+		<file name="C:\OSPanel\domains\notes241\index.php" crc="1516207939"/>
+		<file name="C:\OSPanel\domains\notes241\home.php" crc="1516207919"/>
+		<file name="C:\OSPanel\domains\notes241\header.php" crc="1516177472"/>
+		<file name="C:\OSPanel\domains\notes241\footer.php" crc="1516178151"/>
+		<file name="C:\OSPanel\domains\notes241\defined.php" crc="1516205373"/>
+		<file name="C:\OSPanel\domains\notes241\codelobster.php" crc="1516207912"/>
+	</filescache>
+</project>

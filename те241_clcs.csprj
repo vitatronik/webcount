@@ -1,0 +1,14 @@
+<codestructure version="5.14">
+<phptree>
+<treenode node="codelobster.php;PHP:PHP Include;C:\OSPanel\domains\notes241\index.php;f15;3;30;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="EMAIL;PHP:PHP Word;C:\OSPanel\domains\notes241\defined.php;f8;1;13;1;;;;vpos;;v;;r&apos;support@mail.com&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="footer.php;PHP:PHP Include;C:\OSPanel\domains\notes241\index.php;f15;4;25;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;C:\OSPanel\domains\notes241\ссылки.php;f15;0;25;0;;C:\OSPanel\domains\notes241\index.php;f15;1;25;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="sidebar.php;PHP:PHP Include;C:\OSPanel\domains\notes241\index.php;f15;2;26;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+</phptree>
+</codestructure>
